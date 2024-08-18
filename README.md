@@ -1,2 +1,2 @@
 # MAS
-DeepOKANs as Neural Operators
+Testing DeepOKANs as Neural Operators 
