@@ -1,4 +1,4 @@
 # MAS
 Testing DeepOKANs as Neural Operators 
-# MAPS
-MAS -> MAPS when Prof. Pratosh joins us here
+
+P.S. This project has been long abandoned due to the PI not liking it. 
